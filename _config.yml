@@ -1,12 +1,14 @@
 # Basic Information 
 title: Zhe DENG 邓哲
-position: Ph.D. Student
+position: PhD Student
 affiliation: Tallinn University of Technology
 email: zhe.deng@taltech.ee
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-
+keywords: zhe deng, machine learning, intrusion detection, cybersecurity
+description: Zhe DENG Personal Website | PhD student in AI/ML
+canonical: https://zhe2d.github.io
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=k2UzwlsAAAAJ&hl=en

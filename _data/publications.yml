@@ -4,9 +4,6 @@ main:
     authors: <strong>Zhe Deng*</strong>, Arthur Hubert*, Sadok Ben Yahia, Hayretdin Bahsi (*Corresponding authors)
     conference_short: IEEE CSR
     conference: IEEE International Conference on Cyber Security and Resilience <strong>(IEEE CSR)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://ieeexplore.ieee.org/document/10679343
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png

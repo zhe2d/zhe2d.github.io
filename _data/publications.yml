@@ -13,6 +13,6 @@ main:
     conference_short: IEEE CSR
     conference: IEEE International Conference on Cyber Security and Resilience <strong>(IEEE CSR)</strong>, 2024.
     pdf: https://doi.org/10.1109/CSR61664.2024.10679343
-    code: https://github.com/Valgiz/Active-learning-for-drifting-malware-data
+    #code: https://github.com/Valgiz/Active-learning-for-drifting-malware-data
     notes: Oral Presentation
     image: ./assets/img/active_learning.PNG

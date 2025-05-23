@@ -1,13 +1,5 @@
 main:
 
-  - title: Generative AI in Intrusion Detection Systems for Internet of Things: A Systematic Literature Review
-    authors: <strong>Zhe Deng*</strong>, Ants Torim, Sadok Ben Yahia, Hayretdin Bahsi (*Corresponding authors)
-    conference_short: IEEE OJCMS
-    conference: IEEE Open Journal of the Communications Society
-    pdf: https://doi.org/10.1109/OJCOMS.2025.3573194
-    notes: Early Access
-    image: ./assets/img/literature_review.jpg
-
   - title: Active Learning-Based Mobile Malware Detection Utilizing Auto-Labeling and Data Drift Detection
     authors: <strong>Zhe Deng*</strong>, Arthur Hubert*, Sadok Ben Yahia, Hayretdin Bahsi (*Corresponding authors)
     conference_short: IEEE CSR

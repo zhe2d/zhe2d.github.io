@@ -6,8 +6,8 @@ email: zhe.deng@taltech.ee
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: zhe deng, machine learning, intrusion detection, cybersecurity
-description: Zhe DENG Personal Website | PhD student in AI/ML
+keywords: zhe deng, tallinn, taltech, machine learning, intrusion detection, cybersecurity
+description: Zhe DENG Personal Website
 canonical: https://zhe2d.github.io
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -20,7 +20,7 @@ linkedin: https://www.linkedin.com/in/zhe2d/
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/tll.jpg
 favicon: ./assets/img/tll.jpg
-favicon_dark: ./assets/img/favicon-dark.png
+favicon_dark: ./assets/img/tll.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."

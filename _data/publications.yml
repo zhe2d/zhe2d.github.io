@@ -2,8 +2,8 @@ main:
 
   - title: Generative AI in Intrusion Detection Systems for Internet of Things: A Systematic Literature Review
     authors: <strong>Zhe Deng*</strong>, Ants Torim, Sadok Ben Yahia, Hayretdin Bahsi (*Corresponding authors)
-    journal_short: IEEE OJCMS
-    journal: IEEE Open Journal of the Communications Society
+    conference_short: IEEE OJCMS
+    conference: IEEE Open Journal of the Communications Society
     pdf: https://doi.org/10.1109/OJCOMS.2025.3573194
     notes: Early Access
     image: ./assets/img/literature_review.jpg

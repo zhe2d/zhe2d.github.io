@@ -5,7 +5,7 @@ main:
     conference_short: IEEE OJCMS
     conference: IEEE Open Journal of the Communications Society
     pdf: https://doi.org/10.1109/OJCOMS.2025.3573194
-    notes: Early Access
+    #notes:
     image: ./assets/img/literature_review.jpg
     
   - title: "Active Learning-Based Mobile Malware Detection Utilizing Auto-Labeling and Data Drift Detection"
@@ -14,5 +14,5 @@ main:
     conference: IEEE International Conference on Cyber Security and Resilience <strong>(IEEE CSR)</strong>, 2024.
     pdf: https://doi.org/10.1109/CSR61664.2024.10679343
     #code: https://github.com/Valgiz/Active-learning-for-drifting-malware-data
-    notes: Oral Presentation
+    #notes: Oral Presentation
     image: ./assets/img/active_learning.PNG

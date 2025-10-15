@@ -15,7 +15,7 @@ My supervisors are [Ants Torim](https://scholar.google.com/citations?hl=en&user=
 
 ## Conferences and Workshops
 
-- BIR Doctoral Consortium 2025 in Riga, Latvia (as an author)
+- BIR 2025 Doctoral Consortium in Riga, Latvia (as an author)
 - IEEE CSR 2024 in London, UK (as an author)
 - ICALP LiCS FSCD 2024 in Tallinn, Estonia (as a volunteer)
 - IC3IT 2024 in Batna, Algeria (as a guest)

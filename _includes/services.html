@@ -1,8 +1,6 @@
 {% if site.data.services %}
 <h2>Conferences and Workshops</h2>
 
-{% for group in site.data.services.main %}
-
 <ul style="margin:0 0 5px;">
   {% for position in group %}
   <li><a href="{{ position.link }}">
@@ -11,5 +9,4 @@
   {% endfor %}
 </ul>
 
-{% endfor %}
 {% endif %}

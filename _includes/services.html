@@ -3,7 +3,7 @@
 
 <ul style="margin:0 0 5px;">
   {% for position in site.data.services.main %}
-  <li><autocolor>{{ position }}</autocolor></li>
+  <li><a href="{{ position.link }}"><autocolor>{{ position.title }}</autocolor></a></li>
   {% endfor %}
 </ul>
 {% endif %}

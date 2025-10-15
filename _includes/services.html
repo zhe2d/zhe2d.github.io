@@ -2,11 +2,8 @@
 <h2>Conferences and Workshops</h2>
 
 <ul style="margin:0 0 5px;">
-  {% assign items = site.data.services.main | split: "\n" %}
-  {% for item in items %}
-    {% if item != "" %}
-      <li><autocolor>{{ item }}</autocolor></li>
-    {% endif %}
+  {% for position in site.data.services.main %}
+  <li><autocolor>{{ position }}</autocolor></li>
   {% endfor %}
 </ul>
 {% endif %}

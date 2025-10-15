@@ -3,10 +3,8 @@
 
 {% for group in site.data.services.main %}
 
-<h4 style="margin:0 10px 0;">{{ group[0] }}</h4>
-
 <ul style="margin:0 0 5px;">
-  {% for position in group[1] %}
+  {% for position in group %}
   <li><a href="{{ position.link }}">
       <autocolor>{{ position.title }}</autocolor>
     </a></li>

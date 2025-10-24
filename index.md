@@ -10,8 +10,9 @@ My supervisors are [Ants Torim](https://scholar.google.com/citations?hl=en&user=
 
 ## Research Area
 
-- **Machine Learning:** active learning, generative AI.
 - **Cybersecurity:** intrusion detection, IoT, mobile malware.
+- **Machine Learning:** active learning, generative AI.
+
 
 ## Conferences and Workshops
 

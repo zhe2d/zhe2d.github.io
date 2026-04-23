@@ -112,6 +112,25 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+    (function () {
+      var targets = 'section h2, section > p, .publications, .conf-timeline, .research-tags';
+      function activate(el) { el.classList.add('visible'); }
+      if (!('IntersectionObserver' in window)) {
+        document.querySelectorAll(targets).forEach(activate);
+        return;
+      }
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (e.isIntersecting) { activate(e.target); io.unobserve(e.target); }
+        });
+      }, { threshold: 0.08 });
+      document.querySelectorAll(targets).forEach(function (el) {
+        el.classList.add('fade-in');
+        io.observe(el);
+      });
+    }());
+    </script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
